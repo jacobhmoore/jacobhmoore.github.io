@@ -2,7 +2,7 @@
 title: "Core Microeconomics - TA"
 collection: teaching
 type: "Undergraduate Microeconomics"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-CoreMicro
 venue: "University of Oxford"
 date: Hilary Term 2020
 ---
