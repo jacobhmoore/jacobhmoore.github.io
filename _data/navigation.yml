@@ -3,11 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "CV/Bio"
+  - title: "CV"
     url: /cv/
-
-  - title: "Data & Code"
-    url: /datacode/
-
+    
   - title: "Teaching"
     url: /teaching/
