@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Moore"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Predoctoral Research Analyst at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia nor the Federal Reserve System."
   location         : "Philadelphia, PA, USA"
   employer         :
