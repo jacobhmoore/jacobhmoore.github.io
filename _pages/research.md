@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Working Papers
-Moore, Jacob. 2020. "[Urban-Rural Productivity Spillovers: Theory and Evidence from Colorado](https://github.com/jacobhmoore/jacobhmoore.github.io/blob/edba8e655831d9496f2082346b195cda4474e7a7/files/urban_rural_TFP_WP.pdf)." 
+Moore, Jacob. 2020. "[Urban-Rural Productivity Spillovers: Theory and Evidence from Colorado](https://jacobhmoore.github.io/files/urban_rural_TFP_WP.pdf)." 
 
 ### Selected Works in Progress
 
