@@ -11,7 +11,7 @@ redirect_from:
 ### Hey there!
 <img align="right" src="https://github.com/jacobhmoore/jacobhmoore.github.io/blob/86c2e923e612337793d8239a60eea59c4d56da3b/images/wedding_pic.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
-I am a Predoctoral Research Analyst at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) working under the supervision of Dr Jeffery Lin with research interests in urban/spatial economics, quantitative spatial modelling, and microeconometrics.
+I am a Predoctoral Research Analyst at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) working under the supervision of [Dr Jeffery Lin](https://jlin.org/) with research interests in urban/spatial economics, quantitative spatial modelling, and microeconometrics.
 
 I hold a Master of Philosophy (MPhil) in Economics from the [University of Oxford](https://www.economics.ox.ac.uk/#/) and a Bachelor of Arts (BA) in Economics and History with a minor in Mathematics from Colorado State University. My CV and current projects can be found on this site. Please feel free to reach out with any questions, suggestions to improve my work, or just to have a chat about how cool cities are.
 
