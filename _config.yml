@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Moore"
-  avatar           : 
-  bio              : "Predoctoral Research Analyst at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia nor the Federal Reserve System."
+  avatar           : "wedding_pic.jpg"
+  bio              : "Predoctoral Research Analyst at the Federal Reserve Bank of Philadelphia. <br> <br> **The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia nor the Federal Reserve System.**"
   location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
