@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-If file does not load below, click [THIS LINK](https://github.com/jacobhmoore/jacobhmoore.github.io/files/Jacob%20Moore%20CV.pdf) to download.
+If file does not load below, click [THIS LINK](https://jacobhmoore.github.io/files/Jacob_Moore_CV_202110.pdf) to download.
 
-<embed src="https://github.com/jacobhmoore/jacobhmoore.github.io/blob/files/Jacob%20Moore%20CV.pdf" width="650" height="800" type='application/pdf'>
+<embed src="https://jacobhmoore.github.io/files/Jacob_Moore_CV_202110.pdf" width="650" height="800" type='application/pdf'>
