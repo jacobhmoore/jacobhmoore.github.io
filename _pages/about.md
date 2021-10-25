@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hey there!**
+**Hey there! I'm Jake. Thanks for stopping by!**
 
 <img align="right" src="https://jacobhmoore.github.io/images/wedding_pic.jpg" alt="Photo" style="width: 250px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am a Predoctoral Research Analyst at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) working under the supervision of [Dr Jeffrey Lin](https://jlin.org/) with research interests in urban/spatial economics, quantitative spatial modelling, and microeconometrics.
