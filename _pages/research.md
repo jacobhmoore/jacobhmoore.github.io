@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 ### Application Writing Sample
-[Text] [[Online Appendix](https://jacobhmoore.github.io/files/writing_sample_appendix_forweb.pdf)]
+Excerpt from Moore (2021): [Text] [[Web Appendix](https://jacobhmoore.github.io/files/writing_sample_appendix_forweb.pdf)]
 
 ### Working Papers
 Moore, Jacob. 2021. "[Urban-Rural Productivity Spillovers: Theory and Evidence from Colorado](https://jacobhmoore.github.io/files/urban_rural_TFP_WP.pdf)." 
