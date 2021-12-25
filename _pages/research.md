@@ -13,7 +13,7 @@ Moore, Jacob. 2021. "[Urban-Rural Productivity Spillovers: Theory and Evidence f
 
 [Lin, Jeff][jlin], [Ganguli, Ina][iganguli], [Reynolds, Nicholas][nreynolds], and Moore, Jacob. 2021. "The Long-run Impacts of Patents on Inventors: Evidence from Patent Interferences."
 
-[Kacher, Nicohlas][nkacher], Moore, Jacob, and [Weiler, Stephan][sweiler]. 2021. "Persistence of Entreprenurial Churn and Future Business Formation."
+[Kacher, Nicohlas][nkacher], Moore, Jacob, and [Weiler, Stephan][sweiler]. 2021. "Persistence of Entrepreneurial Churn and Future Business Formation."
 
 
 [jlin]: http://www.jlin.org
