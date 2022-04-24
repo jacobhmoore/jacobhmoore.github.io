@@ -12,7 +12,6 @@ redirect_from:
 }
 ---
 
-
 **Hey there! I'm Jake. Thanks for stopping by!**
 
 <img align="right" src="https://jacobhmoore.github.io/images/IMG_0015.jpg" alt="Photo" style="width: 400px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
@@ -24,7 +23,5 @@ I think primarily about urban spatial economics and international trade, but I a
 **Contact**
 
 Email: jacob [dot] howard [dot] moore [at] gmail [dot] com
-
-
 
 <img align="left" src="https://jacobhmoore.github.io/images/berkeley_haas_logo.jpg" alt="Photo" style="width: 350px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
