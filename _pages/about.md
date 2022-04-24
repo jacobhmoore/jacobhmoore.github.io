@@ -4,7 +4,7 @@ title:
 excerpt: "About me"
 author_profile: true
 font-size: 5px
-width: 1000px
+width: 1500px
 redirect_from: 
   - /about/
   - /about.html
