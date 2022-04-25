@@ -15,4 +15,4 @@ redirect_from:
 
 I am a Research Associate at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). I am an incoming PhD student in Real Estate and Urban Economics at UC Berkeley's [Haas School of Business](https://haas.berkeley.edu/realestate/). I hold an MPhil from the University of Oxford and a BA from Colorado State University.
 
-I think primarily about urban spatial economics and international trade. Please feel free to reach out with any questions, suggestions to improve my work, or just to have a chat about how cool cities are (especially Philadelphia).
+I think primarily about urban and spatial economics, international trade, and microeconometrics. Please feel free to reach out with any questions, suggestions to improve my work, or just to have a chat about how cool cities are (especially Philadelphia).
