@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jacob Moore"
   avatar           : "https://jacobhmoore.github.io/images/IMG_0015.jpg"
-  bio              : "Research Associate at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia nor the Federal Reserve System."
-  location         : "Philadelphia, PA, USA"
+  bio              : "PhD Student in the Haas School of Business at UC Berkeley. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Haas School of Business nor UC Berkeley."
+  location         : "Berkeley, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jacob.howard.moore@gmail.com"
+  email            : "jacob.moore@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
