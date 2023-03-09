@@ -15,4 +15,4 @@ redirect_from:
 
 I am a PhD student in the [Real Estate and Urban Economics Group](https://haas.berkeley.edu/realestate/) at UC Berkeley's Haas School of Business. Prior to Berkeley, I was a Research Associate at the Federal Reserve Bank of Philadelphia. I hold a MPhil in Economics from the University of Oxford and a BA in Economics from Colorado State University.
 
-I think primarily about urban and spatial economics, international trade, and economic history. My email is jacob.moore [at] berleley.edu
+I think primarily about urban and spatial economics, international trade, and economic history. My email is jacob.moore [at] berleley.edu.
