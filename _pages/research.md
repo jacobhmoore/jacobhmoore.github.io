@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ### Working Papers
-Immigration and the Role of Slums in Housing Affordability (with [Marco Gonzalez-Navarro][mgn] and [Raimundo Undurraga][rundurraga])
-\[[__Paper__]((https://jacobhmoore.github.io/files/ImmigrationAndSlums_20260323.pdf)\]
+Immigration and the Role of Slums in Housing Affordability (with [Marco Gonzalez-Navarro][mgn] and [Raimundo Undurraga][rundurraga])<br>
+\[[Paper]((https://jacobhmoore.github.io/files/ImmigrationAndSlums_20260323.pdf)\]
 
 ### Selected Works in Progress
 
