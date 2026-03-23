@@ -15,4 +15,9 @@ redirect_from:
 
 I am a PhD candidate in the [Real Estate and Urban Economics Group](https://haas.berkeley.edu/realestate/) at UC Berkeley's Haas School of Business. Prior to Berkeley, I was a RA at the Federal Reserve Bank of Philadelphia. I hold a MPhil in Economics from the University of Oxford and a BA in Economics from Colorado State University (go rams).
 
-I think primarily about urban/spatial economics, international trade, and international macroeconomics and finance. My email is jacob.moore [at] berleley.edu.
+I think primarily about urban and spatial economics. My email is jacob.moore [at] berleley.edu.
+
+**New Developments**
+
+- **March 2026:** New working paper with [Marco Gonzalez-Navarro](https://marcogonzaleznavarro.com/) and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research?authuser=0)  studying immigration, slum formation, and housing supply constraints in Chile. 
+
