@@ -19,5 +19,5 @@ I think primarily about urban and spatial economics. My email is jacob.moore [at
 
 **New Developments**
 
-- **March 2026:** New working paper with [Marco Gonzalez-Navarro](https://marcogonzaleznavarro.com/) and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research?authuser=0)  studying immigration, slum formation, and housing supply constraints in Chile. 
+- **March 2026:** New [working paper](https://jacobhmoore.github.io/files/ImmigrationAndSlums_20260323.pdf) with [Marco Gonzalez-Navarro](https://marcogonzaleznavarro.com/) and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research?authuser=0)  studying immigration, slum formation, and housing supply constraints in Chile. 
 
